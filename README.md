@@ -76,9 +76,7 @@ Les contributions sont ce qui fait de la communauté open source un endroit incr
 4. Poussez vers la Branche (`git push origin feature/NouvelleFonctionnalite`)
 5. Ouvrez une Pull Request
 
-## 📝 Licence
 
-Distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
 
 ## 📫 Contact
 
