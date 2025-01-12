@@ -5,7 +5,8 @@
 [![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)](https://www.python.org/)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
 
-![image](https://github.com/user-attachments/assets/11ccfa84-2a59-43b0-aece-887a8ca96994)
+<img src="https://github.com/user-attachments/assets/11ccfa84-2a59-43b0-aece-887a8ca96994" width="300" />
+
 
 ## 🚀 À Propos du Projet
 
