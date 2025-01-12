@@ -87,4 +87,4 @@ Focus - [@focus-on1](https://github.com/focus-on1)
 Lien du Projet : [https://github.com/focus-on1/Cut-Focus](https://github.com/focus-on1/Cut-Focus)
 
 ---
-<p align="center">Fait avec ❤️ par Focus</p>
+<p align="center">Made with ❤️ by Focus</p>
